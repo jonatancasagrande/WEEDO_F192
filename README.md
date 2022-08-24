@@ -1,4 +1,6 @@
 # WEEDO_F192
 Software and firmware for WEEEDO F192 3D Printer
 
+For download Cura Weedo , ReplicatorG and WiiBuilder copy link in your webbrowser and download: 
+
 Contact email: support@weedo3d.com
